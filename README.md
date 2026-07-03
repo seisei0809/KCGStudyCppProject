@@ -15,7 +15,7 @@ https://github.com/seisei0809/KCGStudyCppProject/tree/main/Phase3
 ## Phase4(動的ライブラリ直接ロード)
 https://github.com/seisei0809/KCGStudyCppProject/tree/main/Phase4
 
-## Phase5(基本クラスおぶえじぇくと取得)
+## Phase5(基本クラスオブジェクト取得)
 https://github.com/seisei0809/KCGStudyCppProject/tree/main/Phase5
 
 ## Phase6(IID指定+インターフェース実装)
