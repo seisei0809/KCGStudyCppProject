@@ -1,0 +1,9 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+  </Configurations>
+  <Project Path="MainProj/MainProj.vcxproj" Id="fc484828-f55a-4842-9aea-030908e75267">
+    <BuildDependency Project="DynamicLibProj/DynamicLibProj.vcxproj" />
+  </Project>
+  <Project Path="DynamicLibProj/DynamicLibProj.vcxproj" Id="75d18a0b-f59d-43bd-935c-1035031d569d" />
+</Solution>
