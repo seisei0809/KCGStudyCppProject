@@ -1,4 +1,5 @@
 # KCGStudyCppProject
+c++ライブラリ実装についての講義で扱ったプロジェクト集です。
 
 ## Phase0(デフォルト)
 https://github.com/seisei0809/KCGStudyCppProject/tree/main/Phase0
